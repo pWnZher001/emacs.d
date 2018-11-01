@@ -1,4 +1,7 @@
 #+TITLE: readme
 
-* emacs配置
+
+* emacs config
+
+** package manager
 
